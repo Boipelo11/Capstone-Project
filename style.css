@@ -1,0 +1,38 @@
+
+html{
+    background-color: blanchedalmond;
+     font-family:sans-serif;}
+
+body {margin-top:auto;
+      margin-left: 50px;
+      margin-bottom: 0;
+       margin-right:50px;}
+
+.header{position: sticky; 
+    top:0;
+     z-index: 1;}
+
+.header__h1{text-align: center;
+     color: aliceblue; 
+     font-style: oblique; 
+     background-color: peru;}
+
+.header__nav{background-color: blanchedalmond; 
+    font-weight: bold;}
+
+.header__ul{display:flex;
+     justify-content: space-evenly; 
+     list-style-type: none; 
+     color: peru;}
+
+.main__h2{font-style: italic; 
+    color:brown}
+
+.heading__h1{background-color: brown; 
+    color: aliceblue; 
+    font-size: larger;}
+
+
+
+
+
